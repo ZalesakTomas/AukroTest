@@ -1,0 +1,16 @@
+{
+  "name": "aukrocypresstest",
+  "version": "1.0.0",
+  "description": "E2E test for interview",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "^6.4.0",
+    "cypress-intellij-reporter": "0.0.6"
+  },
+  "scripts": {
+    "cypress:open": "cypress open"
+  },
+  "author": "Tomáš Zálešák",
+  "license": "ISC"
+}
