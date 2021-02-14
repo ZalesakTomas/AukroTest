@@ -15,6 +15,13 @@
 
 // Import commands.js using ES2015 syntax:
 import './commands'
+import './Category/category'
+import './Category/filter'
+import './Category/listCard'
+import './Cookies/cookies'
+import './Newsletter/newsletter'
+import './Product/buyOrBidProduct'
+import './Product/productProfile'
 
 // Alternatively you can use CommonJS syntax:
 // require('./commands')

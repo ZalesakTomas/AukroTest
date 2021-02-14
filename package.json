@@ -6,7 +6,8 @@
   "dependencies": {},
   "devDependencies": {
     "cypress": "^6.4.0",
-    "cypress-intellij-reporter": "0.0.6"
+    "cypress-intellij-reporter": "0.0.6",
+    "faker": "^5.4.0"
   },
   "scripts": {
     "cypress:open": "cypress open"
